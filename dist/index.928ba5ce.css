@@ -55,10 +55,13 @@ body{
 .container>hr{
     border: #171717 solid;
     width: 100px;
+
 }
+
 .container>h2{
     font-family: "OSWALD";
 }
+
 .inputs{
     border: solid 1px;
     padding: 10px;
@@ -67,6 +70,20 @@ body{
     margin-bottom: 20px;
 }
 
+.add-button {
+    background-color:#171717;
+    color:#dfdfdf;
+    font-family: 'OSWALD';
+    font-size: 15px;
+    border:none;
+    padding: 10px 32px;
+    transition-duration: 0.6s;
+}
+
+.add-button:hover{
+    cursor: pointer;
+    background-color: gray;
+}
 /* Footer */
 
 .footer{

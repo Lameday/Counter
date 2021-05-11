@@ -1,0 +1,15 @@
+
+
+//Events
+inputName.addEventListener ('keypress',function(event) {
+    if(event.keyCode === 13) {
+        if(inputName.value.length > 1) { 
+            console.log("click")
+        }
+}
+
+button.addEventListener ("click",function() {
+    if(inputName.value.length > 1) { 
+        console.log("click")
+    }
+}

@@ -1,0 +1,3 @@
+const inputName = document.getElementById('name-input')
+const inputDate = document.getElementById('date-input')
+const button = document.getElementById("submit-button")
