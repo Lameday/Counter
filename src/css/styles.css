@@ -50,15 +50,18 @@ body{
 .container>h3{
     font-family: "OSWALD";
     font-size: 40PX;
-    margin: 0px;
+    ma
+    rgin: 0px;
 }
 .container>hr{
     border: #171717 solid;
     width: 100px;
 }
+
 .container>h2{
     font-family: "OSWALD";
 }
+
 .inputs{
     border: solid 1px;
     padding: 10px;
