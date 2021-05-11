@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Maciej Gluszek">
+    <link href="9c2e61b45c65d3d07daaccea1ec7bde8" rel="stylesheet">
+    <link rel="stylesheet" href="cd46f0cd5b8f55e2496c6f69ad321387">
+    <title>Face Recognition</title>
+</head>
+<body>
+    <div class="navi">
+
+    </div>
+    <div class="footer">
+        <div class="footer-container">
+            <div class="upper-footer">
+                <h3>MACIEJ GŁUSZEK &#60;/&#62;</h3>
+                <nav>                    
+                    <a href="45cf3e663157bd8db63c24043ba3ac3b">LinkedIn</a>
+                    <a href="014bcf834b5eee1ebd4488b6e994e71e">GIT</a>
+                </nav>
+            </div>
+            <div class="lower-footer">
+                <p>2021</p>
+                <nav>
+                    <a>gluszek.maciek@gmail.com</a>
+                </nav>                
+            </div>
+        </div>            
+        <div class="footer-underline"></div>
+    </div>
+    <script src="0086d3ac802fe6e96e4c356580545896"></script>
+</body>
+</html>
