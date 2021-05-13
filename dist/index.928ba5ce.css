@@ -1,7 +1,13 @@
 body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     margin:0;
     padding:0;
+    
 }
+
 
 .navi{
     background-color: #171717; 
@@ -84,10 +90,44 @@ body{
     cursor: pointer;
     background-color: gray;
 }
+
+.cards-container{
+    font-family: "OSWALD";
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border: black 1px solid;
+    min-width: 25vh;
+    max-width: 100%;
+    margin: 20px;
+}
+
+.card>h1{
+    margin-bottom: 0px;
+}
+
+.card>P{
+    margin-top: 0px;
+}
+
+.card>h2 {
+    opacity: 0.3;
+}
+
+.card>h2:hover {
+    opacity: 1;
+}
+
 /* Footer */
 
 .footer{
-    position: absolute;
     bottom: 0;
     width:100%;
     background-color: #171717;

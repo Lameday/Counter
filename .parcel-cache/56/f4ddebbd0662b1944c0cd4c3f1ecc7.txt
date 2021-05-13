@@ -39,7 +39,7 @@
 67C:\Users\thela\Desktop\Portfolio\Counter\node_modules\get-intrinsic132651817518235981 1
 93C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@parcel\transformer-babel\src\config.js121436361000000000 0
 74C:\Users\thela\Desktop\Portfolio\Counter\node_modules\sshpk\bin\sshpk-conv131898308050000000 0
-45C:\Users\thela\Desktop\Portfolio\Counter\dist132652016481181882 1
+45C:\Users\thela\Desktop\Portfolio\Counter\dist132653729477168892 1
 105C:\Users\thela\Desktop\Portfolio\Counter\node_modules\postcss-ordered-values\node_modules\chalk\readme.md121436361000000000 0
 75C:\Users\thela\Desktop\Portfolio\Counter\node_modules\lodash\_baseGetTag.js121436361000000000 0
 69C:\Users\thela\Desktop\Portfolio\Counter\node_modules\lodash\isSet.js121436361000000000 0
@@ -86,7 +86,7 @@
 101C:\Users\thela\Desktop\Portfolio\Counter\node_modules\babel-plugin-polyfill-regenerator\esm\index.mjs119600064000000000 0
 67C:\Users\thela\Desktop\Portfolio\Counter\node_modules\is-resolvable132651817514495986 1
 114C:\Users\thela\Desktop\Portfolio\Counter\node_modules\postcss-normalize-timing-functions\node_modules\postcss\docs132651817399255892 1
-59C:\Users\thela\Desktop\Portfolio\Counter\src\css\styles.css132651884274924099 0
+59C:\Users\thela\Desktop\Portfolio\Counter\src\css\styles.css132653685091765539 0
 99C:\Users\thela\Desktop\Portfolio\Counter\node_modules\caniuse-lite\data\features\input-minlength.js121436361000000000 0
 84C:\Users\thela\Desktop\Portfolio\Counter\node_modules\w3c-xmlserializer\lib\utils.js121436361000000000 0
 108C:\Users\thela\Desktop\Portfolio\Counter\node_modules\snapdragon-node\node_modules\define-property\README.md131371426190000000 0
@@ -140,7 +140,7 @@
 87C:\Users\thela\Desktop\Portfolio\Counter\node_modules\babel-plugin-polyfill-regenerator132651817501051971 1
 48C:\Users\thela\Desktop\Portfolio\Counter\src\css132651820819059111 1
 98C:\Users\thela\Desktop\Portfolio\Counter\node_modules\core-js\features\string\virtual\pad-start.js121436361000000000 0
-47C:\Users\thela\Desktop\Portfolio\Counter\src\js132651820845583587 1
+47C:\Users\thela\Desktop\Portfolio\Counter\src\js132653729617294092 1
 86C:\Users\thela\Desktop\Portfolio\Counter\node_modules\htmlnano\lib\modules\minifyJs.js121436361000000000 0
 91C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@babel\helper-wrap-function\README.md121012626000000000 0
 80C:\Users\thela\Desktop\Portfolio\Counter\node_modules\nanomatch\lib\compilers.js121436361000000000 0
@@ -171,12 +171,12 @@
 97C:\Users\thela\Desktop\Portfolio\Counter\node_modules\icss-utils\node_modules\postcss\lib\root.js121436361000000000 0
 79C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@parcel\core\lib\types.js121436361000000000 0
 98C:\Users\thela\Desktop\Portfolio\Counter\node_modules\base\node_modules\is-data-descriptor\LICENSE131539914520000000 0
-55C:\Users\thela\Desktop\Portfolio\Counter\src\index.html132652016376954429 0
+55C:\Users\thela\Desktop\Portfolio\Counter\src\index.html132653634342987119 0
 68C:\Users\thela\Desktop\Portfolio\Counter\node_modules\browserify-aes132651817497631122 1
 101C:\Users\thela\Desktop\Portfolio\Counter\node_modules\postcss-calc\node_modules\ansi-styles\readme.md131628273600000000 0
 88C:\Users\thela\Desktop\Portfolio\Counter\node_modules\core-js\es\array\virtual\splice.js121436361000000000 0
 104C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@parcel\runtime-js\src\loaders\node\wasm-loader.js121436361000000000 0
-58C:\Users\thela\Desktop\Portfolio\Counter\src\js\scripts.js132652016368611730 0
+58C:\Users\thela\Desktop\Portfolio\Counter\src\js\scripts.js132653729470485664 0
 72C:\Users\thela\Desktop\Portfolio\Counter\node_modules\lodash\subtract.js121436361000000000 0
 110C:\Users\thela\Desktop\Portfolio\Counter\node_modules\postcss-reduce-transforms\node_modules\has-flag\index.js131593941750000000 0
 109C:\Users\thela\Desktop\Portfolio\Counter\node_modules\cssnano-util-raw-cache\node_modules\color-name\index.js131446304070000000 0
@@ -10267,7 +10267,7 @@
 104C:\Users\thela\Desktop\Portfolio\Counter\node_modules\jsdom\lib\jsdom\living\generated\MouseEventInit.js121436361000000000 0
 138C:\Users\thela\Desktop\Portfolio\Counter\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\selectors\container.js121436361000000000 0
 110C:\Users\thela\Desktop\Portfolio\Counter\node_modules\postcss-minify-params\node_modules\postcss\lib\parser.js121436361000000000 0
-56C:\Users\thela\Desktop\Portfolio\Counter\dist\index.html132652016481141979 0
+56C:\Users\thela\Desktop\Portfolio\Counter\dist\index.html132653729477047102 0
 113C:\Users\thela\Desktop\Portfolio\Counter\node_modules\postcss-minify-params\node_modules\postcss\lib\postcss.d.ts121436361000000000 0
 95C:\Users\thela\Desktop\Portfolio\Counter\node_modules\caniuse-lite\data\features\css-subgrid.js121436361000000000 0
 116C:\Users\thela\Desktop\Portfolio\Counter\node_modules\postcss-minify-params\node_modules\postcss\lib\previous-map.js121436361000000000 0
@@ -17987,7 +17987,7 @@
 85C:\Users\thela\Desktop\Portfolio\Counter\node_modules\caniuse-lite\data\regions\PY.js121436361000000000 0
 85C:\Users\thela\Desktop\Portfolio\Counter\node_modules\caniuse-lite\data\regions\RE.js121436361000000000 0
 85C:\Users\thela\Desktop\Portfolio\Counter\node_modules\caniuse-lite\data\regions\RU.js121436361000000000 0
-68C:\Users\thela\Desktop\Portfolio\Counter\dist\index.928ba5ce.css.map132652016481181882 0
+68C:\Users\thela\Desktop\Portfolio\Counter\dist\index.928ba5ce.css.map132653729477148941 0
 92C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@nodelib\fs.scandir\src\utils\index.ts121436361000000000 0
 85C:\Users\thela\Desktop\Portfolio\Counter\node_modules\caniuse-lite\data\regions\SB.js121436361000000000 0
 85C:\Users\thela\Desktop\Portfolio\Counter\node_modules\caniuse-lite\data\regions\SD.js121436361000000000 0
@@ -20269,7 +20269,7 @@
 101C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@babel\preset-env\node_modules\semver\README.md121436361000000000 0
 105C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@babel\preset-env\node_modules\semver\bin\semver.js121436361000000000 0
 100C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@babel\preset-env\node_modules\.bin\semver.ps1132651817525755824 0
-63C:\Users\thela\Desktop\Portfolio\Counter\dist\index.c94632a6.js132652016481141979 0
+63C:\Users\thela\Desktop\Portfolio\Counter\dist\index.c94632a6.js132653729477129004 0
 96C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@babel\preset-env\lib\available-plugins.js121012626000000000 0
 84C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@babel\preset-env\lib\debug.js121012626000000000 0
 91C:\Users\thela\Desktop\Portfolio\Counter\node_modules\@babel\preset-env\lib\filter-items.js121012626000000000 0
@@ -20795,5 +20795,5 @@
 64C:\Users\thela\Desktop\Portfolio\Counter\node_modules\.bin\uncss132651817529196612 0
 68C:\Users\thela\Desktop\Portfolio\Counter\node_modules\.bin\uncss.cmd132651817529186641 0
 63C:\Users\thela\Desktop\Portfolio\Counter\node_modules\.bin\uuid132651817528957255 0
-64C:\Users\thela\Desktop\Portfolio\Counter\dist\index.928ba5ce.css132652016481141979 0
-67C:\Users\thela\Desktop\Portfolio\Counter\dist\index.c94632a6.js.map132652016481172146 0
+64C:\Users\thela\Desktop\Portfolio\Counter\dist\index.928ba5ce.css132653729477057073 0
+67C:\Users\thela\Desktop\Portfolio\Counter\dist\index.c94632a6.js.map132653729477158918 0

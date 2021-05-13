@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Maciej Gluszek">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/index.HASH_REF_1f4ae320034955e4a6b30ca3928ba5ce.css">
+    <title>Counter</title>
+</head>
+<body>
+    <div class="navi">
+        <div class="navi-content">
+            <h3>MACIEJ GŁUSZEK  &#60;/&#62;</h3>
+            <nav>
+                <a href="https://www.linkedin.com/in/maciej-głuszek/">LinkedIn</a>
+                <a href="https://github.com/Lameday/face-reco-pure">GIT</a>
+            </nav>
+        </div>
+    </div>
+        <div class="container">
+            <h3>COUNTERS APP</h3>
+            <hr>
+            <h2>ADD COUNTER NAME</h2>
+            <input class="inputs" type="text" name="fname" id="name-input" required="">
+            <h2>ADD DATE</h2>
+            <input class="inputs" type="datetime-local" name="fname" id="date-input">
+            <button class="add-button" id="add-button">ADD COUNTER</button>  
+            <H2>YOUR COUNTERS</H2>   
+            <div class="cards-container">
+                <div class="card">
+                    <header>
+                        <h3>Event name</h3>
+                    </header>
+                    <div>
+                        <p>Time left</p>
+                        <p>asdf</p>
+                    </div>
+                    <button> Delete </button>
+                </div>   
+                <div class="card">
+                    <header>
+                        <h3>Event name</h3>
+                    </header>
+                    <p>Time left</p>
+                    <hr>
+                    <p>asdf</p>
+                    <br>
+                    <button> Delete </button>
+                </div>
+            </div> 
+        </div>
+    
+    <div class="footer">
+        <div class="footer-container">
+            <div class="upper-footer">
+                <h3>MACIEJ GŁUSZEK &#60;/&#62;</h3>
+                <nav>                    
+                    <a href="https://www.linkedin.com/in/maciej-głuszek/">LinkedIn</a>
+                    <a href="https://github.com/Lameday/face-reco-pure">GIT</a>
+                </nav>
+            </div>
+            <div class="lower-footer">
+                <p>2021</p>
+                <a>gluszek.maciek@gmail.com</a>                
+            </div>
+        </div>            
+    </div>
+    <script src="/index.HASH_REF_3ed0213112b1ce5a596585f9c94632a6.js"></script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Maciej Gluszek">
+    <link href="9c2e61b45c65d3d07daaccea1ec7bde8" rel="stylesheet">
+    <link rel="stylesheet" href="5a3f866c1deffd0a397c2d8071fcd2d0">
+    <title>Counter</title>
+</head>
+<body>
+    <div class="navi">
+        <div class="navi-content">
+            <h3>MACIEJ GŁUSZEK  &#60;/&#62;</h3>
+            <nav>
+                <a href="45cf3e663157bd8db63c24043ba3ac3b">LinkedIn</a>
+                <a href="014bcf834b5eee1ebd4488b6e994e71e">GIT</a>
+            </nav>
+        </div>
+    </div>
+        <div class="container">
+            <h3>COUNTERS APP</h3>
+            <hr>
+            <h2>ADD COUNTER NAME</h2>
+            <input class="inputs" type="text" name="fname" id="name-input" required="">
+            <h2>ADD DATE</h2>
+            <input class="inputs" type="datetime-local" name="fname" id="date-input">
+            <button class="add-button" id="add-button">ADD COUNTER</button>  
+            <H2>YOUR COUNTERS</H2>   
+            <div class="cards-container">
+                <div class="card">
+                    <header>
+                        <h3>Event name</h3>
+                    </header>
+                    <div>
+                        <p>Time left</p>
+                        <hr>
+                        <p>asdf</p>
+                        <br>
+                    </div>
+                    <button> 
+                        Delete 
+                    </button>
+                </div>   
+                <div class="card">
+                    <header>
+                        <h3>Event name</h3>
+                    </header>
+                    <div>
+                        <p>Time left</p>
+                        <hr>
+                        <p>asdf</p>
+                        <br>
+                    </div>
+                <button> Delete </button>
+                </div>
+            </div> 
+        </div>
+    
+    <div class="footer">
+        <div class="footer-container">
+            <div class="upper-footer">
+                <h3>MACIEJ GŁUSZEK &#60;/&#62;</h3>
+                <nav>                    
+                    <a href="45cf3e663157bd8db63c24043ba3ac3b">LinkedIn</a>
+                    <a href="014bcf834b5eee1ebd4488b6e994e71e">GIT</a>
+                </nav>
+            </div>
+            <div class="lower-footer">
+                <p>2021</p>
+                <a>gluszek.maciek@gmail.com</a>                
+            </div>
+        </div>            
+    </div>
+    <script src="a22713e187ad128ba2c8a7df6c28bd49"></script>
+</body>
+</html>

@@ -1,0 +1,180 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin:0;
+    padding:0;
+    
+}
+
+
+.navi{
+    background-color: #171717; 
+}
+
+.navi-content{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    max-width: 1100px;
+    font-family: 'OSWALD';
+}
+
+.navi-content>h3{
+    color:#dfdfdf;
+    font-size:20px;
+    padding:10px;
+    letter-spacing: 6px;
+}
+
+.navi-content>nav{
+    letter-spacing: 2px;
+    color:#c1c1c1;
+}
+
+.navi-content>nav>a{
+    text-decoration: none;
+    color:inherit;
+    padding:10px;
+}
+
+.navi-content>nav>a:hover{
+    color:#eceaea;
+    transition-duration: 0.6s;
+}
+
+/* Container*/
+.container {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    }
+
+.container>h3{
+    font-family: "OSWALD";
+    font-size: 40PX;
+    margin: 0px;
+}
+.container>hr{
+    border: #171717 solid;
+    width: 100px;
+
+}
+
+.container>h2{
+    font-family: "OSWALD";
+}
+
+.inputs{
+    border: solid 1px;
+    padding: 10px;
+    width: 450px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+.add-button {
+    background-color:#171717;
+    color:#dfdfdf;
+    font-family: 'OSWALD';
+    font-size: 15px;
+    border:none;
+    padding: 10px 32px;
+    transition-duration: 0.6s;
+}
+
+.add-button:hover{
+    cursor: pointer;
+    background-color: gray;
+}
+
+.cards-container{
+    font-family: "OSWALD";
+    display: flex;
+
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border: black 1px solid;
+    width: 25vh;
+    margin: 20px;
+}
+
+.card>p{
+    margin-top: 0px;
+}
+
+.card>button {
+    right: 32px;
+    top: 32px;
+    width: 32px;
+    height: 32px;
+    opacity: 0.3;
+}
+
+.card>button:hover {
+
+    opacity: 1;
+}
+
+/* Footer */
+
+.footer{
+    bottom: 0;
+    width:100%;
+    background-color: #171717;
+}
+
+.footer-container{
+    color:#c1c1c1;
+    font-family: 'OSWALD';
+    max-width: 1100px;
+    margin:0 auto;
+    padding: 20px 10px 10px;
+}
+
+.upper-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: #464646 solid 1px;
+}
+
+.upper-footer>h3{
+    color:#dfdfdf;
+    letter-spacing: 6px;
+}
+
+.upper-footer>nav>a{
+    letter-spacing: 2px;
+    padding:10px;
+    text-decoration: none;
+    color:inherit;
+}
+
+.upper-footer>nav>a:hover{
+    padding:10px;
+    letter-spacing: 2px;
+    color:#eceaea;
+    transition-duration: 0.6s;
+}
+
+.lower-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    letter-spacing: 2px;
+
+}
+
+.lower-footer>nav>a{
+    padding:10px;
+    letter-spacing: 2px;
+}
+
